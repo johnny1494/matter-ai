@@ -1,0 +1,7 @@
+Archivos locales
+
+Para reproducir archivos de audio locales, transfiérelos a esta carpeta. Usa Finder en macOS o iTunes en Windows/macOS para seleccionar qué archivos de audio transferir a la aplicación de Spotify.
+
+Luego de que habilites Archivos locales en la configuración de Spotify, los archivos de audio almacenados en el dispositivo aparecerán en la playlist de Archivos locales en Tu biblioteca.
+
+Puedes usar la aplicación Archivos en este dispositivo para copiar o mover archivos de audio desde otras aplicaciones a la aplicación de Spotify.
